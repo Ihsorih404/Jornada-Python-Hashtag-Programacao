@@ -1,3 +1,3 @@
 # Jornada Python - Hashtag Programação
 
-Aulas do curso "Jornada Python"
+1ª aula do curso "Jornada Python" da Hashtag Programação
